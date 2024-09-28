@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="qSARpnM_kFnA1O6T9zdH">
-    <mxGraphModel dx="8114" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7862" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1570,6 +1570,12 @@
               <mxPoint x="-5020" y="1930" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IEHFQ_iW-WAkRX3vlm4B-292" value="DIY - Empresa de conserto de qualquer tipo de veículo, que, se o usuário desejar, a solicitação e o acompanhamento do andamento do serviço serão feitos integralmente pelo aplicativo, como um UBER." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-4965" y="11" width="1460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IEHFQ_iW-WAkRX3vlm4B-293" value="&lt;div&gt;A solicitação será feita com base em uma lista de estabelecimentos (limitada , pelo usuário, por distância em km) com disponibilidade que varia de hora em hora com&lt;/div&gt;&lt;div&gt;base no número de vagas da oficina,&amp;nbsp; e disponibilidade do profissional em questão. O usuário pode pedir um atendimento imediato ou com hora marcada,&lt;/div&gt;&lt;div&gt;e precisa decidir se a DIY será a responsável pelo transporte do veículo, exceto quando o serviço escolhido é Resgate&lt;/div&gt;&lt;div&gt;O usuário precisa marcar uma janela horária específica para o envio e recebimento do carro quando o&amp;nbsp; transporte for feito por guincho.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Na confirmação do serviço, é iniciado um documento sobre o serviço que, após o pagamento ou avaliação, é finalizada.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-4755" y="551" width="1200" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
