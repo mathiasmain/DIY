@@ -3044,7 +3044,15 @@
         <mxCell id="WfhH1Lo1BGKtX_p-pgZd-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Página de Peças Automotivas&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="3520" y="2130" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WfhH1Lo1BGKtX_p-pgZd-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Página de Configurações&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="WfhH1Lo1BGKtX_p-pgZd-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="WfhH1Lo1BGKtX_p-pgZd-36" target="WfhH1Lo1BGKtX_p-pgZd-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3410" y="2230" />
+              <mxPoint x="3200" y="2230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WfhH1Lo1BGKtX_p-pgZd-36" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Página de Configurações&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="3340" y="2124" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WfhH1Lo1BGKtX_p-pgZd-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Classe Veículo&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
@@ -3070,7 +3078,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WfhH1Lo1BGKtX_p-pgZd-45" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Página de Histórico&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="WfhH1Lo1BGKtX_p-pgZd-45" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Página de Histórico&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="3140" y="2128" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WfhH1Lo1BGKtX_p-pgZd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.61;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="WfhH1Lo1BGKtX_p-pgZd-25" target="WfhH1Lo1BGKtX_p-pgZd-20">
@@ -3116,6 +3124,15 @@
         </mxCell>
         <mxCell id="WfhH1Lo1BGKtX_p-pgZd-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.854;entryY=0.043;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="WfhH1Lo1BGKtX_p-pgZd-31" target="WfhH1Lo1BGKtX_p-pgZd-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WfhH1Lo1BGKtX_p-pgZd-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="WfhH1Lo1BGKtX_p-pgZd-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2730" y="2280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="3410" y="2210" />
+              <mxPoint x="2730" y="2210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
